@@ -7,7 +7,7 @@ Top 5 Crytpocurrencies by Market Cap between 2013 to 2018?
 
 What were the Closing Prices of Top 4 Cryptocurrencies as per Market Cap?
 
-# Conclusion:
+# Conclusion
 
 From 2013 to 2018, Here we can see that Bitcoin is the highest value according to market cap and XRP is 20% of it and Etherum is almost 15% of it and all other are very less in comparison to it and Bitcoin cash is 3 times less then Etherum.
 
