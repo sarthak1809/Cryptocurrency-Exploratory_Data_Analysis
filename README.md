@@ -1,4 +1,4 @@
-# cryptocurrency-Exploratory_Data_Analysis
+# Cryptocurrency-Exploratory_Data_Analysis
 Used Libraries : pandas,numpy,seaborn,matplotlib,plotly.
 
 This report answers many important questions like :
